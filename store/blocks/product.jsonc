@@ -28,7 +28,7 @@
   },
   "product-brand":{
     "props": {
-      "displaymode": "logo",
+      "displayMode": "logo",
       "height": 30
     }
   },
