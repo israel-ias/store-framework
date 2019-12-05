@@ -12,7 +12,7 @@
           "header-spacer"
         ]
     },
-    "header-row#main":{
+    "header-row#main": {
         "children": [
             "logo",
             "header-spacer",
@@ -30,11 +30,9 @@
         "children": [
           "logo",
           "header-spacer",
-          "search-bar",
           "minicart",
           "login"
         ],
-      
         "props": {
           "sticky": true,
           "inverted":true
