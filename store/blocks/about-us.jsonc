@@ -50,7 +50,8 @@
           "iframe"
         ],
         "props": {
-            "tabId":"electronics"
+            "tabId":"electronics",
+            "label": "Instagram"
         }
     },
     "iframe": {
