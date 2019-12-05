@@ -16,7 +16,8 @@
     },
     "image#landingbanner":{
         "props": {
-            "maxHeight": "600px"
+            "src": "",
+            "minWidth": "100%"
           }
     }
 }
